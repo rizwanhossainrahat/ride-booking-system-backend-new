@@ -603,18 +603,3 @@ npm run lint:fix     # Auto-fix issues
 5. **Session Management**: Secure user sessions
 6. **Location Tracking**: Continuous location updates
 
----
-
-## 🧑‍💻 Author
-
-## Github Link : https://github.com/muhamash/Ride-Booking-System
-## Live Link : https://ride-booking-system-one.vercel.app/
-## Doc : https://github.com/muhamash/Ride-Booking-System/blob/main/Readme.md
-## Video Link : https://drive.google.com/file/d/1cerBYwSgy2ppYLXFuxnJ01pd9nSPCKh6/view?usp=sharing
-
-**Muhammad Ashraful**  
-Full-Stack Software engineer  
-📧 Contact: muhammad-ashraful@outlook.com 
-🔗 GitHub: github.com/muhamash
-
----
